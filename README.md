@@ -1,6 +1,6 @@
 # 🧮 Simple Calculator
 
-A basic arithmetic web application built with **Python** and **Streamlit**.
+A basic arithmetic web application built with **Python** and **Streamlit**. 
 
 ## Features
 
